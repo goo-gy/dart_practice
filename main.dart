@@ -2,6 +2,7 @@ import '13_optional_positional_paramter.dart';
 import '14_QQ_operator.dart';
 import '15_typedef.dart';
 import '16_class.dart';
+import '17_constructor.dart';
 import '1_dynamic_type.dart';
 import '2_null_safety.dart';
 import '3_final.dart';
@@ -31,5 +32,6 @@ void main() {
   // learnOptionalPositionalParamter();
   // learnQqOperator();
   // learnTypeDef();
-  learnClass();
+  // learnClass();
+  learnConstructor();
 }
