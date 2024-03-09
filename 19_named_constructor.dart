@@ -24,7 +24,7 @@ class Player {
         level = json['level'];
 
   void introduce() {
-    print("Player: $name, come from $country");
+    print("Player: $name [LV.$level], come from $country");
   }
 }
 
