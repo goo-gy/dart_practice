@@ -10,6 +10,7 @@ import '20_cascade.dart';
 import '21_enum.dart';
 import '22_abstractClass.dart';
 import '23_inheritance.dart';
+import '24_mixin.dart';
 import '2_null_safety.dart';
 import '3_final.dart';
 import '4_late.dart';
@@ -45,5 +46,6 @@ void main() {
   // learnCascade();
   // learnEnum();
   // learnAbstract();
-  learnInheritance();
+  // learnInheritance();
+  learnMixin();
 }
