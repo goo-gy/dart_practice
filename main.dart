@@ -8,6 +8,7 @@ import '19_named_constructor.dart';
 import '1_dynamic_type.dart';
 import '20_cascade.dart';
 import '21_enum.dart';
+import '22_abstractClass.dart';
 import '2_null_safety.dart';
 import '3_final.dart';
 import '4_late.dart';
@@ -41,5 +42,6 @@ void main() {
   // learnNamedConstructorParameter();
   // learnNamedConstructor();
   // learnCascade();
-  learnEnum();
+  // learnEnum();
+  learnAbstract();
 }
